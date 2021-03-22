@@ -1,2 +1,2 @@
 # blog-html
-Blog written in HTML 5, CSS, JS, and PHP
+Blog "framework" written in HTML 5, CSS, JS, and PHP for my website
